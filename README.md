@@ -29,9 +29,9 @@ Analiza:
 ## Zrzuty ekranu
 
 ![Dashboard](Overview.png)
-![Dashboard](Profit Analysis.png)
-![Dashboard](Top Performer.png)
-![Dashboard](Report Details.png)
+![Dashboard](Profit_Analysis.png)
+![Dashboard](Top_Performer.png)
+![Dashboard](Report_Details.png)
 
 ## Pliki
 

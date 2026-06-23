@@ -40,4 +40,4 @@ Analiza:
 
 ## Autor
 
-Milena Rembowicz
+Milena R.
